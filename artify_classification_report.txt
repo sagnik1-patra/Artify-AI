@@ -1,0 +1,12 @@
+=== ArtifyAI: Engineered Features + SGDClassifier ===
+
+                    precision    recall  f1-score   support
+
+      Edvard Munch     1.0000    1.0000    1.0000         1
+Katsushika Hokusai     0.0000    0.0000    0.0000         0
+  Vincent Van Gogh     0.0000    0.0000    0.0000         2
+
+          accuracy                         0.3333         3
+         macro avg     0.3333    0.3333    0.3333         3
+      weighted avg     0.3333    0.3333    0.3333         3
+
