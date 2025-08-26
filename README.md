@@ -59,7 +59,7 @@ C:\Users\sagni\Downloads\Artify AI\outputs\artified_flat-lay-acrylic-paint-backg
 
 
 No style images? The script falls back to using the content as style (effect will be minimal). Add some paintings to archive/ for dramatic results.
-![Confusion Matrix Heatmap](artified_Vincent Van Gogh - The Yellow House_with_Vincent Van Gogh - The Yellow House.png)
+![Confusion Matrix Heatmap](artified_Vincent Van Gogh - The Yellow House_with_Vincent Van Gogh - The Yellow House.png).
 🖥️ CLI (optional)
 
 If you prefer running from a terminal, save this as artify_nst.py:
